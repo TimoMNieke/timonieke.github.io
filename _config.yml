@@ -22,9 +22,9 @@ title: Timo Mario Nieke
 email: t.mario.nieke@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the blogsite from Timo Mario Nieke.
-baseurl: "timonieke.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "timonieke.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-
+author: Timo Mario Nieke
 
 #Social Profiles
 github_username:  TimoNieke
