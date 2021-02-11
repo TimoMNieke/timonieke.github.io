@@ -27,7 +27,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  TimoNieke
 
 # Build settings
-theme: jekyll-theme-clean-blog
 paginate: 5
 paginate_path: "/posts/page:num/"
 plugins:
